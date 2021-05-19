@@ -16,3 +16,4 @@ print ('Testuję to na drugiej gałęzi!')
 print('A teraz dopisuję na gałęzi druga')
 
 print ('to działa dobrze. łącze z mainem!')
+#teraz dopiero przesiadłem sie na trzecia galaz
