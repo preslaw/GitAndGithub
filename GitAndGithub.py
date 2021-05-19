@@ -10,6 +10,7 @@ for b in range(5):
 # dodaję trzecią
 for c in range(3):
     print(c)
-# a teraz dodam nową funkcjonalność zeby byla na drugiej galęzi
+# a teraz dodam nową funkcjonalność zeby byla na drugiej galęzi!
 
 print ('Testuję to na drugiej gałęzi!')
+print('A teraz dopisuję na gałęzi druga')
