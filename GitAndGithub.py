@@ -21,7 +21,8 @@ print ('to działa dobrze. łącze z mainem!')
 print('to wersja do dalszej obróbki')
 
 #teraz na nowej galezi dodam funcje sumy
+# zmienilem na trzy zmienne
 
-def suma(a,b):
+def suma(a,b,):
     return a+b
 
