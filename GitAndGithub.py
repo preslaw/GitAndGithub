@@ -20,3 +20,8 @@ print ('to działa dobrze. łącze z mainem!')
 
 print('to wersja do dalszej obróbki')
 
+#teraz na nowej galezi dodam funcje sumy
+
+def suma(a,b):
+    return a+b
+
