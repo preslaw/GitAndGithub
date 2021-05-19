@@ -6,7 +6,10 @@ for a in range (5):
 #dodaję drugą pętlę i spróbuję zrobić z niej brancha
 for b in range(5):
     print(b)
-    
+
 # dodaję trzecią
 for c in range(3):
     print(c)
+# a teraz dodam nową funkcjonalność zeby byla na drugiej galęzi
+
+print ('Testuję to na drugiej gałęzi!')
