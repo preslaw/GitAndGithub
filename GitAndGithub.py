@@ -14,3 +14,5 @@ for c in range(3):
 
 print ('Testuję to na drugiej gałęzi!')
 print('A teraz dopisuję na gałęzi druga')
+
+print ('to działa dobrze. łącze z mainem!')
