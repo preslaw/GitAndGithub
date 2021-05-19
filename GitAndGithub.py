@@ -17,3 +17,6 @@ print('A teraz dopisuję na gałęzi druga')
 
 print ('to działa dobrze. łącze z mainem!')
 # a na trzeciej galęzi siedzi sobie ktoś
+
+print('to wersja do dalszej obróbki')
+
